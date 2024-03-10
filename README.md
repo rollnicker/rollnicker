@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/rollnicker" target="_blank">Boris</a> :vulcan_salute: </h1>
-<br>QA engineer from Moscow. 
+<br>QA engineer from Moscow 
 <br>Experience in web testing since 2019
 <br>Automation QA since 2024
-<br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
+<br>Experience with frontend test automation frameworks like Selene, PyTest, Selenium, Cucumber
 
 <details>
     <summary><i>Details...</i></summary>
@@ -17,8 +17,8 @@
 <details><summary><i>List</i></summary> 
     
 * qa.guru
-* software-testing.ru
-* Udemy    
+* Appline
+
 </details>
 -->  
 
@@ -63,9 +63,8 @@
 
 <!--  Contacts section -->
 ## :anchor: Contact me :) 
-<code><a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
-<code><a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
-<code><a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="40" width="40" title="My Linkedin"></a></code> 
+<code><a href="https://t.me/38erew"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:rollnicker38@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
 
  <!--   
 <table valign="top"><tr>   
