@@ -42,7 +42,7 @@
 
 <!--  Contacts section -->
 
-## :anchor: Contact me :)
+## 🔃: Contact me :)
 
 <code><a href="https://t.me/38erew"><img src="images/Telegram_logo.webp" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:rollnicker38@gmail.com" target="blank"><img src="images/google-original.svg" height="40" width="40" title="My Gmail"></a></code>
