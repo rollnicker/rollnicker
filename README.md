@@ -23,7 +23,7 @@
 </details>
 -->  
 
-## :four_leaf_clover: Languages and Tools:
+## :accessibility:: Languages and Tools:
 
 <code><img src="images/python-original-wordmark.svg" width="40" height="40"  alt="olgakos" title="Python"></code>
 <code><img src="images/pycharm-original.svg" width="40" height="40"  alt="olgakos" title="PyCharm"></code>
