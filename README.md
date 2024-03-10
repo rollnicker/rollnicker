@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/rollnicker" target="_blank">Boris</a> :vulcan_salute: </h1>
 <br>QA engineer from Moscow 
-<br>Experience in web testing since 2019
+<br>Experience in web, mobile testing since 2019
 <br>Automation QA since 2024
 <br>Experience with frontend test automation frameworks like Selene, PyTest, Selenium, Cucumber
 
