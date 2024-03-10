@@ -18,7 +18,6 @@
     
 * qa.guru
 * Appline
-
 </details>
 -->  
 
@@ -66,78 +65,14 @@
 <code><a href="https://t.me/38erew"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:rollnicker38@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
 
- <!--   
-<table valign="top"><tr>   
-<td>
-<b>Тестовые фреймворки:</b>
-<br>- Selenide (Java) (80%) 
-<br>- Selenium WebDriver (C#) (20%)
-</td>   
-<td  valign="top">
-<b>Средства визуализации результатов тестирования: </b>
-<br>- Allure 
-<br>- Telegram Bot
-</td>    
-<td> 
-<b>Version Control: </b>
-<br>- Git + GitHub (80%) 
-<br>- Mercurial (20%)
-</td>
-</tr><tr>
-<td>
-<b>Библиотеки для тестирования:</b>
-<br>- JUnit5 (Java)
-<br>- NUnit 2.4.6 (C#) 
-<br>- Rest-Assured
-</td>
-       
-<td>
-<b>Системы багтрекинга:</b>
-<br>- Redmine (90%)
-<br>- Jira (10%)
-</td>    
-<td>
-<b>Удаленный запуск</b>
-<br>- Jenkins 
-<br>- BrowserStack
-</td>
-</tr><tr>
-<td>
-<b>Сборщики проектов:</b>
-<br>- Gradle (80%)
-<br>- Maven (20%)
-</td>  
-<td>
-<b>Databases:</b>
-<br>- Microsoft SQL Server
-<br>
-</td>    
-<td>
-<b>Дополнительно:</b>
-<br>- Postman
-</td>
-</tr></table>
--->
-
-## :unicorn: Pet Projects:
-#### Java
-* <a target="_blank" href="https://github.com/olgakos/Demo-Arivistika-Java">Demo to Arivistika</a> (Java. UI tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
-* <a href="https://github.com/olgakos/demo_Dune_API" target="_blank">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
-* <a href="https://github.com/olgakos/demo_rest_assured_tests" target="_blank">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
+## 🐈: Pet Projects:
 
 #### Python
-* <a target="_blank" href="https://github.com/olgakos/demo-arivistika-python3">Demo to Arivistika</a> (Python. UI tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/small_pet_remote_py">Landesarchiv Berlin (mini)</a> (Python. UI tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
-* <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.)
-  
-#### C# (коммерческий проект)
-* Logistics Enterprise software (C#. UI tests. NUnut. Selenium WebDriver, NSelene)
+* <a target="_blank" href="https://github.com/rollnicker/QAGuru9_15">Wishmaster</a> (Python. Allure, Jenkins)
+
 
 #### Mobile:
-* <a href="https://github.com/olgakos/qa_guru_11_21_browserstack4" target="_blank">Demo тестирования мобильного приложения "Wikipedia"</a> (Java, BrowserStack)
-* <a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python, BrowserStack.)
+* <a target="_blank" href="https://github.com/rollnicker/QAGuru9_22" target="_blank">Wikipedia App (demo)</a> (Python, BrowserStack.)
 
 <!--
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
